@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  font-size: 14px;
   background: #fff;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
@@ -784,7 +785,7 @@ h4 {
   background-color: #f3976c;
 }
 .btn-atomic-tangerine {
-  color: #f3976c;
+  color: #f3976c !important;
   background-color: black !important;
 }
 .btn-block {
