@@ -7,7 +7,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+img {
+  width: 30rem;
+}
 a,
 button {
   transition: all 0.3s ease-in-out;
